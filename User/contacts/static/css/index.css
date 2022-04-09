@@ -1,0 +1,12 @@
+
+button{
+    background-color:magenta;
+    color:white;
+
+    font-family:sans-serif;
+    border-radius:4px;
+    text-shadow: 1px 1px;
+}
+#principal{
+    background-color:#2a86d7;
+}
